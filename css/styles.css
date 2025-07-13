@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(255, 195, 127);
+    background-color:rgb(173, 31, 31);
 }
 .header {
     padding: 80px; /* some padding */
@@ -82,4 +82,64 @@ text-decoration: none; /* Romove underline */
     padding: 20px; /* Some padding */
     text-align: center; /* Center text */
     background: #ddd; /* Grey background */
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.6;
+    font-style:italic;
+}
+
+.image-text-row {
+display: flex;
+align-items: centre;
+justify-content: space-between;
+margin-top: 30px;
+gap: 30px;
+}
+
+.poster-image {
+    width: 300px;
+    height: auto;
+}
+
+.custom-font {
+    font-family: 'Georgia' ,serif;
+    font-size: 40px;
+}
+
+.image-text-row {
+display: flex;
+align-items: centre;
+justify-content: space-between;
+margin-top: 30px;
+gap: 30px;
+}
+
+.poster-image {
+    width: 300px;
+    height: auto;
+}
+
+.custom-font {
+    font-family: 'Georgia' ,serif;
+    font-size: 40px;
+}
+
+.image-text-row {
+display: flex;
+align-items: centre;
+justify-content: space-between;
+margin-top: 30px;
+gap: 30px;
+}
+
+.poster-image {
+    width: 300px;
+    height: auto;
+}
+
+.custom-font {
+    font-family: 'Georgia' ,serif;
+    font-size: 40px;
 }
