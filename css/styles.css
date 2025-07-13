@@ -143,3 +143,21 @@ gap: 30px;
     font-family: 'Georgia' ,serif;
     font-size: 40px;
 }
+
+.image-text-row {
+display: flex;
+align-items: centre;
+justify-content: space-between;
+margin-top: 30px;
+gap: 30px;
+}
+
+.poster-image {
+    width: 300px;
+    height: auto;
+}
+
+.custom-font {
+    font-family: 'Georgia' ,serif;
+    font-size: 40px;
+}
